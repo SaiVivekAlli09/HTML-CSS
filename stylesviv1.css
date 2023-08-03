@@ -1,0 +1,21 @@
+p.error{
+ color: rgb(70, 20, 249);
+}
+
+p.success{
+    color: orangered;
+}
+
+p.done{
+    color: green;
+}
+
+#content{
+    background-color: gainsboro;
+    padding: 20px;
+}
+
+div{
+    margin: 80px;
+    border: 10px black
+}
